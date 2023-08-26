@@ -10,7 +10,7 @@ A cloud-based file storage system, Data Vault offers functionalities akin to Goo
 - Routing and Additional Libraries: React-Router-Dom, Express.js, CORS, Body-Parser
 
 
-1. Initiate by selecting create account, followed by entering the desired username, email, password, and contact number.
+1. Initiate by selecting 'create account', followed by entering the desired username, email, password, and contact number.
 
 2. Upon providing valid credentials, users receive a unique verification code to validate their email.
 
@@ -18,6 +18,6 @@ A cloud-based file storage system, Data Vault offers functionalities akin to Goo
 
 4. Once verified, users are navigated to the main dashboard displaying all uploaded files. Here, files can be downloaded, modified, or removed as per preference.
 
-5. Navigating to drop file, users are presented with an interface that permits either dragging and dropping files or using the Choose File option for selections from their device.
+5. Navigating to 'drop file', users are presented with an interface that permits either dragging and dropping files or using the 'Choose File' option for selections from their device.
 
-- Note: The fields what should we call this? and what is this? are entirely optional.
+- Note: The fields 'what should we call this?' and 'what is this?' are entirely optional.
