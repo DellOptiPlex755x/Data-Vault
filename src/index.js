@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 
 class Doc extends React.Component{
   componentDidMount(){
-    document.title = "drop it!"
+    document.title = "Data Vault"
   }
 
   render(){
